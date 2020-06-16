@@ -25,18 +25,20 @@ than general answers. I give importance to those to listen in class and note dow
 Hard Real time and soft real time 
 ```
 
-4. **Answer to Question 4**  _Only 7 students got it right_
+4. **Answer to Question 4**  _Only 7 students got it right_ :expressionless:
 Refer to Slide no 20. 
 
 ```
 Dead Line Oriented. That was the term I was expecting. If there is a word
 dead line any where in your answer I gave full marks. The reason is,
 I have connected it with the expiry date of the medicines. I had explained this
-by taking the same example in class... Dead line means Expiry,  that is why I had 
-underlined it in slides but did not explicity mention is slides.  Few students
-wrote, Firm Real time and Dead line based/oriented etc. I accepted all that.
+by taking the same example in class... Dead line means Expiry,  in some case
+the dead line carries the same importance that of expiry date.
+That is why I had  underlined it in slides but did not explicity mention is slides.  
+Few students wrote, Firm Real time and Dead line based/oriented etc. I accepted all that.
 
-- Blind follow of Slides *will not  fetch you correct answers always*.
+- Blindly following  of Slides during open book **will not  fetch you correct answers always**.
+I will be adding more questions of this nature for next batch :wink:
 ```
 
 5. **Answer to Question 5**  _30 students got it right_
