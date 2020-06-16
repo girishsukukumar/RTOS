@@ -19,13 +19,24 @@ than general answers. I give importance to those to listen in class and note dow
 * I/O operations
 ```
 
-3. *Answer to Question 3*
+3. *Answer to Question 3* _28 students got it right_
 
 ``` 
 Hard Real time and soft real time 
 ```
 
-4. **Answer to Question 4**  _28 students got it right_
+4. **Answer to Question 4**  _Only 7 students got it right_
+Refer to Slide no 20. 
+
+```
+Dead Line Oriented. That was the term I was expecting. If I had seen the word
+dead line any where in your answer I gave full marks. The reason is 
+I have connected it with the expiry date of the medicines. I had explained this
+by taking the same example in class... Dead line and Expiry, that is why I had 
+underlined it in slides but did not explicity mention is slides. 
+- Blind follow of Slides *will not  fetch you correct answers always*.
+```
+
 5. **Answer to Question 5**  _30 students got it right_
 6. **Answer to Question 6**  _30 students got it right_
 7. **Answer to Question 7**  _13 students got it right_
