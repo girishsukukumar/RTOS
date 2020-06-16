@@ -152,9 +152,22 @@ Refer to Deck RTOS -2 page 39
 23. **Answer to Question 23**  _29 students got it right_
 
 ```
-    
+    Refer to page :
+    https://github.com/girishsukukumar/FreeRTOSexamples/tree/master/TaskManagement/priority
 ```
 24. **Answer to Question 24**  _29 students got it right_
+````
+Refer to the page:
+https://github.com/girishsukukumar/FreeRTOSexamples/tree/master/TaskManagement/scheduling_algo_in_FreeRTOS
+````
 25. **Answer to Question 25**  _24 students got it right_
+```
+Refer to  page: 
+https://github.com/girishsukukumar/FreeRTOSexamples/tree/master/TaskManagement/priority
+
+The diagram to the end of the page (the last diagram ) the look at the note in blue color to your right
+```
+
+
 
 
