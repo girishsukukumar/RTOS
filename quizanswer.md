@@ -32,7 +32,8 @@ I have connected it with the expiry date of the medicines. I had explained this
 by taking the same example in class... Dead line means Expiry,  in some case
 the dead line carries the same importance that of expiry date.
 That is why I had  underlined it in slides but did not explicity mention is slides.  
-Few students wrote, Firm Real time and Dead line based/oriented etc. I accepted all that.
+Few students wrote, "Firm Real time and Dead line based/oriented etc". I accepted all that.
+But Firm Real Time is not acceptable to me..
 ```
 
 - Blindly following  of Slides during open book **will not  fetch you correct answers always**.
