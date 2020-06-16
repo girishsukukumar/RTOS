@@ -36,10 +36,11 @@ by taking the same example in class... Dead line means Expiry,  in some case
 the dead line carries the same importance that of expiry date.
 That is why I had  underlined it in slides but did not explicity mention is slides.  
 Few students wrote, Firm Real time and Dead line based/oriented etc. I accepted all that.
+```
 
 - Blindly following  of Slides during open book **will not  fetch you correct answers always**.
 I will be adding more questions of this nature for next batch :wink:
-```
+
 
 5. **Answer to Question 5**  _30 students got it right_
 6. **Answer to Question 6**  _30 students got it right_
