@@ -29,11 +29,13 @@ Hard Real time and soft real time
 Refer to Slide no 20. 
 
 ```
-Dead Line Oriented. That was the term I was expecting. If I had seen the word
-dead line any where in your answer I gave full marks. The reason is 
+Dead Line Oriented. That was the term I was expecting. If there is a word
+dead line any where in your answer I gave full marks. The reason is,
 I have connected it with the expiry date of the medicines. I had explained this
-by taking the same example in class... Dead line and Expiry, that is why I had 
-underlined it in slides but did not explicity mention is slides. 
+by taking the same example in class... Dead line means Expiry,  that is why I had 
+underlined it in slides but did not explicity mention is slides.  Few students
+wrote, Firm Real time and Dead line based/oriented etc. I accepted all that.
+
 - Blind follow of Slides *will not  fetch you correct answers always*.
 ```
 
