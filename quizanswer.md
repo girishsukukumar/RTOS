@@ -1,5 +1,5 @@
 # Answer for QUIZ Questions
-1. *Answer to Question 1*
+1. *Answer to Question 1* 18 Students got it right
 
 Refer to : Slide RTOS-1 page no 12: What was the motivation to build an Operating system
 ```
@@ -9,7 +9,7 @@ the above line, I accepted it. If not I rejected it. This is one of the key tech
 than general answers. I give importance to those to listen in class and note down the key points.
 ```
 
-2. *Answer to Question 2*
+2. * Answer to Question 2 *   22 students got it right 
  (As per page 16 of Slide RTOS-1)
  
  ```
