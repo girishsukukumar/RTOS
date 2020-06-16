@@ -44,9 +44,10 @@ Hard Real time and soft real time
 18. **Answer to Question 18**  _29 students got it right_
 19. **Answer to Question 19**  _15 students got it right_
 20. **This question was merged with Question 19** 
-21. **Answer to Question 21**  _29 students got it right_
+21. **Answer to Question 21**  _28 students got it right_
 22. **Answer to Question 22**  _29 students got it right_
 23. **Answer to Question 23**  _29 students got it right_
-24. **Answer to Question 24**  _24 students got it right_
+24. **Answer to Question 24**  _29 students got it right_
+25. **Answer to Question 25**  _24 students got it right_
 
 
