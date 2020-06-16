@@ -8,7 +8,6 @@ There are many reasons why operating system evolved, the key  I am looking is th
 the above line, I accepted it. If not I rejected it. This is one of the key technical reasons. I am looking for technical answers
 than general answers. I give importance to those to listen in class and note down the key points.
 ```
-
 2. **Answer to Question 2**   _22 students got it right_
 
  (As per page 16 of Slide RTOS-1)
@@ -18,13 +17,11 @@ than general answers. I give importance to those to listen in class and note dow
 * Inter-process Communication
 * I/O operations
 ```
-
 3. *Answer to Question 3* _28 students got it right_
 
 ``` 
 Hard Real time and soft real time 
 ```
-
 4. **Answer to Question 4**  _Only 7 students got it right_ :expressionless:
 Refer to Slide no 20. 
 
@@ -40,13 +37,10 @@ Few students wrote, Firm Real time and Dead line based/oriented etc. I accepted 
 
 - Blindly following  of Slides during open book **will not  fetch you correct answers always**.
 I will be adding more questions of this nature for next batch :wink:
-
-
 5. **Answer to Question 5**  _30 students got it right_
 ```
 Hard Real Time
 ```
-
 6. **Answer to Question 6**  _30 students got it right_
 
 ```
@@ -54,7 +48,6 @@ Refer to Slide deck RTOS-2 Page no 3
 Categories of Real Time System
 ```
 Any one who has given answer based on slide no 3 , 5,6 was given full marks
-
 7. **Answer to Question 7**  _13 students got it right_
 
 ```
@@ -62,7 +55,6 @@ Refer to Slide No 11 and 12 of deck RTOS -2
 Answer I was expecting is Shell
 ```
 Many has given the answer **Applicaiton Layer** that is for networking stack. 
-
 8. **Answer to Question 8**  _17 students got it right_
 
 ```
@@ -75,13 +67,11 @@ But any one who got the answer any where near were given full marks
 Refer to deck RTOS-2 page no 15
 Stack, heap, Test, Data 
 ```
-
 10. **Answer to Question 10**  _28 students got it right_
 
 ```
 Refer to deck RTOS-2 slide no 29
 ```
-
 11. **Answer to Question 11**  _25 students got it right_
 
 ```
@@ -90,7 +80,6 @@ Answer is SMP (Unless I see Symmetric Multi processong Processor or SMP, I did n
 If you had executed the command uname -a in raspberry pi you would have got the answer.
 Refer to Deck RTOS -2 page 39
 ```
-
 12. **Answer to Question 12**  _29 students got it right_
 
 ```
@@ -98,7 +87,6 @@ Refer to Deck RTOS -2 page 39
    Refer to Deck RTOS -2 page 25
 
 ```
-
 13. **Answer to Question 13**  _29 students got it right_
 
 ```
@@ -115,7 +103,6 @@ Refer to Deck RTOS -2 page 39
 ```
     Semaphore
 ```
-
 16. **Answer to Question 16**  _30 students got it right_
 ```
     Sockets
@@ -148,7 +135,6 @@ Refer to Deck RTOS -2 page 39
 ```
      Promote Prioroity
 ```
-
 23. **Answer to Question 23**  _29 students got it right_
 
 ```
