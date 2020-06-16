@@ -48,6 +48,7 @@ Refer to Slide deck RTOS-2 Page no 3
 Categories of Real Time System
 ```
 Any one who has given answer based on slide no 3 , 5,6 was given full marks
+
 7. **Answer to Question 7**  _13 students got it right_
 
 ```
@@ -55,6 +56,7 @@ Refer to Slide No 11 and 12 of deck RTOS -2
 Answer I was expecting is Shell
 ```
 Many has given the answer **Applicaiton Layer** that is for networking stack. 
+
 8. **Answer to Question 8**  _17 students got it right_
 
 ```
