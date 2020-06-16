@@ -11,6 +11,7 @@ than general answers. I give importance to those to listen in class and note dow
 
 2. *Answer to Question 2*
  (As per page 16 of Slide RTOS-1)
+ 
  ```
 * Program Execution
 * Inter-process Communication
@@ -18,6 +19,10 @@ than general answers. I give importance to those to listen in class and note dow
 ```
 
 3. *Answer to Question 3*
-``` Hard Real time and soft real time ``
+
+``` 
+Hard Real time and soft real time 
+```
 
 4. Answer to Question 4
+
